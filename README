@@ -1,0 +1,6 @@
+problems:
+* viewbox resizing shits.  blobs are way too big.
+* "smart" autoplace of new blobs
+* prettier blobs
+* feels pretty hacky withthe innerHTML shits
+
